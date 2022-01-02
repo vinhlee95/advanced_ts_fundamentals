@@ -1,0 +1,16 @@
+{
+  "name": "advanced_ts_fundamentals",
+  "version": "1.0.0",
+  "description": "learn new ts fundamentals",
+  "main": "index.js",
+  "scripts": {
+    "run-ts": "ts-node-dev --respawn --transpile-only",
+    "validate": "tsc --noEmit"
+  },
+  "author": "Vinh Le",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.5.4"
+  }
+}
