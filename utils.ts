@@ -1,0 +1,1 @@
+export const log = (input: any) => console.log(input)
